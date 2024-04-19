@@ -18,6 +18,20 @@ This repository contains the source code for a user-friendly and secure e-commer
 
 Create a .env file in the project root directory to store sensitive environment variables (e.g., database connection string, API keys). 
 
+## Installation : 
+-  Clone this repository:
+```
+git clone https://github.com/DivyanshuVijay/Ecommerce_WebApp_Project
+```
+- Navigate to the project directory:
+```
+cd Ecommerce_WebApp_Project
+```
+- Install dependencies: 
+```
+npm install
+```
+
 ## Running the Application:
 
 ### Start the back-end server:
